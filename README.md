@@ -1,4 +1,4 @@
-# 🌟 Pham Ngoc Dung
+# 🌟 dzungphieuluuky
 
 **AI Research Enthusiast | Deep Learning Researcher | Generative AI Explorer**
 
