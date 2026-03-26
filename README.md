@@ -1,4 +1,4 @@
-# 🌟 dzungphieuluuky
+# 🌟 Pham Ngoc Dung
 
 **AI Research Enthusiast | Deep Learning Researcher | Generative AI Explorer**
 
@@ -28,7 +28,7 @@ Python, C++, German (Duolingo)
 
 ---
 
-**[Portfolio and Dummy blog post →](https://github.com/dzungphieuluuky)**
+**[Portfolio and Dummy blog post →](https://dzungphieuluuky.github.io)**
 
 ---
 
