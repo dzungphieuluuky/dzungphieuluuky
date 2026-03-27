@@ -1,8 +1,8 @@
 # 🌟 dzungphieuluuky
 
-**AI Research Enthusiast | Deep Learning Researcher | Generative AI Explorer**
+**AI Research | Deep Learning | Generative AI**
 
-Undergraduate student passionate about advancing generative AI through the intersection of reinforcement learning and diffusion models. I 
+Undergraduate student passionate about advancing generative AI through the intersection of reinforcement learning and diffusion models. I'm also interested in how represnetatoin learning can be improved through intelligent architectural design.
 
 ---
 
